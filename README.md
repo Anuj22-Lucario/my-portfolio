@@ -15,4 +15,4 @@ My professional portfolio showcasing projects and skills.
 - **Solution:** Used CSS `scroll-behavior: smooth` with anchor IDs for seamless section navigation.
 
 ## Live Demo
-[]
+[https://portfolio-anuj22.netlify.app/]
